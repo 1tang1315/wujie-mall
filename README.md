@@ -69,8 +69,8 @@ startApp({ name: "唯一id", url: "子应用路径", el: "容器", sync: true })
 ```bash
 # vue2 框架
 npm i wujie-vue2 -S
-# vue3 框架
-npm i wujie-vue3 -S
+# big-screen 框架
+npm i wujie-big-screen -S
 
 ```
 
@@ -79,8 +79,8 @@ npm i wujie-vue3 -S
 ```javascript
 // vue2
 import WujieVue from "wujie-vue2";
-// vue3
-import WujieVue from "wujie-vue3";
+// big-screen
+import WujieVue from "wujie-big-screen";
 Vue.use(WujieVue);
 ```
 
